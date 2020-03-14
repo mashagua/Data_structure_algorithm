@@ -14,4 +14,4 @@ output = [
 
 """
 def top_n(posting,n):
-    posting.split(" ")
+    data=posting.lower().split(" ")
