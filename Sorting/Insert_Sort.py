@@ -12,4 +12,5 @@ for i in range(1,len(nums)):
             nums.pop(i)
             nums.insert(j,ins)
             break
+
 print(nums)
